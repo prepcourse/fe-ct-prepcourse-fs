@@ -21,6 +21,7 @@ function obtenerDiaSemana(numero) {
       return 'sabado'
     case 7:
       return 'domingo'
+      
   }
 
 }
